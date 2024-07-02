@@ -1,7 +1,8 @@
 # Physicist
 
 ### Education
+Physics, CSUN
 
 ### Research Experience 
-text
--bullet
+Researcher 
+- bullet
