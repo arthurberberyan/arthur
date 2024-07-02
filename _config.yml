@@ -1,5 +1,5 @@
 title: Arthur Berberyan
 logo: /assets/img/IMG_2480.JPG
 #description: text below
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
