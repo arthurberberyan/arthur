@@ -29,7 +29,7 @@ I am currently a physics grad student at California State University, Northridge
 ![Metamaterials](/assets/img/metamaterials.jpeg)
 
 **Research Assistant at the [Infrared Processing and Analysis Center](https://www.ipac.caltech.edu/) (IPAC) with [Dr. David R. Ciardi](https://web.ipac.caltech.edu/staff/ciardi/) at Caltech. (_August 2019 - August 2020_)**
-- Utilized data from NASA's TESS satellite to categorize over 150 TOI (TESS Objects of Interest) candidate star systems and extrasolar planets with high image processing in near-infrared adaptive optics
+- Utilized data from NASA’s TESS Satellite, Palomar and Keck Observatories, and the NASA Exoplanet Science Institute (NExScI) archive, to process images and categorize 150+ TESS Objects of Interest (TOI): candidate stars and exoplanets with high image processing in near-infrared adaptive optics
 - Analyzed stellar data **(IDL)**, calculated star magnitudes, distances, and luminosities (also data from Palomar and Keck Observatories)
 - Contributed to better understanding of potential habitable planets and their host stars
 
