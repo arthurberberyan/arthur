@@ -5,8 +5,8 @@
 - B.Sc., Astrophysics | California State University, Northridge (_May 2023_)
 
 ## Publications
-- **A. Berberyan**, D.J. Christian et al., "_A Search for Mode Coupling in Magnetic Bright Points._", Astronomy & Astrophysics (A&A), _in review_ (_June 2024_)
-- J.T. Clark, et al., _“Spinning up a Daze: TESS Uncovers a Hot Jupiter Orbiting the Rapid Rotator TOI-778.”_, The Astronomical Journal 165, [paper](https://iopscience.iop.org/article/10.3847/1538-3881/acc3a0). (_May 2023_) 
+- **A. Berberyan**, D.B. Jess, D.J. Christian et al., "_A Search for Mode Coupling in Magnetic Bright Points._", Astronomy & Astrophysics (A&A), _in review_ (_June 2024_)
+- J.T. Clark, et al., “_Spinning up a Daze: TESS Uncovers a Hot Jupiter Orbiting the Rapid Rotator TOI-778._”, The Astronomical Journal 165, [paper](https://iopscience.iop.org/article/10.3847/1538-3881/acc3a0). (_May 2023_) 
 
 ## Recent Conferences / Presentations 
 - _The Search for Mode Coupling in the Lower Solar Atmosphere_, presented at [Cool Stars 22](https://coolstars22.github.io/) at the University of California, San Diego. (_June 2024_) [poster](https://drive.google.com/file/d/17lu4VqiTQlsk6I2dMnnmLVEOOdtdBhie/view?usp=sharing)
