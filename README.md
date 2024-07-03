@@ -36,7 +36,7 @@
 ## Educational Experience 
 **Teaching Associate for the [Department of Physics & Astronomy](https://w2.csun.edu/science-mathematics/physics-astronomy) at California State University, Northridge. (_August 2023 - Present_)**
 - I have made significant contributions to students' academic success in varying subjects, including electromagnetism, circuits, optics, astronomy, mechanics, statistical analysis, and engineering.
-- My goal is to simply complex scientific concepts and provide a healthy and welcoming environment to students of all backgrounds
+- My goal is to simply complex scientific concepts and provide a healthy, welcoming environment to students of all backgrounds
 - My passion for teaching comes from my love for physics and astronomy to eventually one-day professorship + academic researcher
 - _Some of the labs I have conducted include_:
   - ASTR 154L: Observational Astronomy Lab (_August 2023 - Present_)
@@ -54,3 +54,6 @@
 - 2021 CSUN MSP SAGE Society Scholarship
 - 2019 California Space Grant Consortium
 - 2018 NASA Community College Aerospace Scholar (NCAS)
+
+## In my free time
+- blah
