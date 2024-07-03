@@ -2,8 +2,6 @@ I am a final-year physics graduate student at California State University, North
 
 If you are interested in viewing a more in-depth [CV](https://drive.google.com/file/d/1cD3JVH5RrJK_1vq8KEwoPnpLPrIaFNfB/view?usp=sharing).
 
-[Astronomy Picture of the Day](https://apod.nasa.gov/apod/astropix.html)
-
 ## Education
 - M.Sc., Physics | California State University, Northridge (_May 2025_)
 - B.Sc., Astrophysics | California State University, Northridge (_May 2023_)
@@ -27,7 +25,7 @@ If you are interested in viewing a more in-depth [CV](https://drive.google.com/f
 
 **REU Summer Program with [Dr. Andrej Košmrlj](https://www.princeton.edu/~akosmrlj/) at Princeton University. (_June 2022 - August 2022_)**
 - Research in acoustic metamaterials, specifically investigating elastic wave propagation in compressed phononic crystals
-- Collaborated with Princeton graduate students, utilizing **Python** coding with **FEniCSx** to gain insight into how elastic waves behave in deforming materials
+- Collaborated with Princeton graduate students, utilizing **Python** coding with **FEniCSx** to solve PDEs and gain insight into how elastic waves behave in deforming materials
 - Conclusions led to promising applications in noise reduction and vibrational control
 
 ![Metamaterials](/assets/img/metamaterials.jpeg)
@@ -45,7 +43,7 @@ If you are interested in viewing a more in-depth [CV](https://drive.google.com/f
 
 ## Educational Experience 
 **Teaching Associate for the [Department of Physics & Astronomy](https://w2.csun.edu/science-mathematics/physics-astronomy) at California State University, Northridge. (_August 2023 - Present_)**
-- I have made significant contributions to students' academic success in varying subjects, including electromagnetism, circuits, optics, astronomy, mechanics, statistical analysis, and engineering.
+- I have significantly contributed to students' academic success in varying subjects, including electromagnetism, circuits, optics, astronomy, mechanics, statistical analysis, and engineering.
 - My goal is to simply complex scientific concepts and provide a healthy, welcoming environment to students of all backgrounds
 - My passion for teaching comes from my love for physics and astronomy to eventually one-day professorship + academic researcher
 - _Some of the labs I have conducted include_:
