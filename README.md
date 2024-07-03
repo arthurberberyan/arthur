@@ -1,4 +1,4 @@
-I am currently a physics grad student at California State University, Northridge. If you would like to contact me, please send me a message at arthurberberyan [at] gmail [dot] com
+I am currently a physics grad student at California State University, Northridge. If you would like to contact me, please send me a message at arthurberberyan [at] gmail [dot] com.
 
 ## Education
 - M.Sc., Physics | California State University, Northridge (_May 2025_)
