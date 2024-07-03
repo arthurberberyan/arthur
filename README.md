@@ -1,5 +1,7 @@
 I am currently a physics grad student at California State University, Northridge. If you would like to contact me, please send me a message at arthurberberyan [at] gmail [dot] com.
 
+If you are interested to view a more in-depth [CV](https://drive.google.com/file/d/1lba2V1FfTCz0I-yD5tHyQWHYPvTcUtbg/view?usp=sharing).
+
 ## Education
 - M.Sc., Physics | California State University, Northridge (_May 2025_)
 - B.Sc., Astrophysics | California State University, Northridge (_May 2023_)
@@ -62,7 +64,7 @@ I am currently a physics grad student at California State University, Northridge
 - 2018 NASA Community College Aerospace Scholar (NCAS)
 
 ## In my free time
-When I am not researching or teaching my labs, I enjoy taking photos with my _Fujifilm X100V_ camera. Here are some recent pictures I have taken at La Jolla for Cool Stars 22:
+When I am not researching, teaching my labs, or studying for exams, I enjoy taking photos with my _Fujifilm X100V_ camera. Here are some recent pictures I have taken at La Jolla for Cool Stars 22:
 
 ![Waves](/assets/img/DSCF1005.JPG)
 ![Seals](/assets/img/DSCF1092.JPG)
