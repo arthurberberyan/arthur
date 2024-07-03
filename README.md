@@ -2,6 +2,8 @@ I am currently a physics graduate student at California State University, Northr
 
 If you are interested in viewing a more in-depth [CV](https://drive.google.com/file/d/1x-A8a9gdqChY7c9UFiRB-vglpUT1Sttb/view?usp=sharing).
 
+[Astronomy Picture of the Day](https://apod.nasa.gov/apod/astropix.html)
+
 ## Education
 - M.Sc., Physics | California State University, Northridge (_May 2025_)
 - B.Sc., Astrophysics | California State University, Northridge (_May 2023_)
