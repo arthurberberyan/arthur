@@ -2,6 +2,10 @@
 - M.Sc., Physics | California State University, Northridge (_May 2025_)
 - B.Sc., Astrophysics | California State University, Northridge (_May 2023_)
 
+## Publications
+- **A. Berberyan**, D.J. Christian et al., "_A Search for Mode Coupling in Magnetic Bright Points._", Astronomy & Astrophysics (A&A), _in review_ (_June 2024_)
+- J.T. Clark, et al., _“Spinning up a Daze: TESS Uncovers a Hot Jupiter Orbiting the Rapid Rotator TOI-778.”_, The Astronomical Journal 165, [paper](https://iopscience.iop.org/article/10.3847/1538-3881/acc3a0). (_May 2023_) 
+
 ## Recent Conferences / Presentations 
 - _The Search for Mode Coupling in the Lower Solar Atmosphere_, presented at [Cool Stars 22](https://coolstars22.github.io/) at the University of California, San Diego. (_June 2024_) [poster](https://drive.google.com/file/d/17lu4VqiTQlsk6I2dMnnmLVEOOdtdBhie/view?usp=sharing)
 - _The Recent Solar Eclipse and Understanding Mode Coupling in Our Sun_, presented to the [Association of Retired Faculty (ARF)](https://www.csun.edu/arf/purpose.html) at California State University, Northridge. (_May 2024_) [slides](https://drive.google.com/file/d/1gBM_U1_KMa__Pno8-_ByjQKU6aff2yMo/view?usp=sharing)
@@ -36,3 +40,15 @@
   - ASTR 154L: Observational Astronomy Lab (_August 2023 - Present_)
   - PHYS 220AL: Mechanics Lab (_January 2024 - May 2024_)
   - PHYS 100B: General Physics II (_August 2023 - December 2023_)
+
+## Awards/Honors
+- 2024 Department of Physics & Astronomy Summer Research Award
+- 2024 The Debra Costa Graduate Student Scholarship
+- 2024 CSUN Association of Retired Faculty Award (1 of 4 in all graduate programs)
+- 2023 CSUNposium 2nd place winner in the Department of Science & Mathematics
+- 2023 CSUN Betty and Martin Altshiller Memorial for Outstanding Undergraduates
+- 2023 CSUN Paul and Amy Lee Undergraduate Scholarship for Excellence
+- 2022-2023 CSUN Undergrad Department of Science & Mathematics Dean’s List
+- 2021 CSUN MSP SAGE Society Scholarship
+- 2019 California Space Grant Consortium
+- 2018 NASA Community College Aerospace Scholar (NCAS)
