@@ -23,7 +23,8 @@ I am currently a physics grad student at California State University, Northridge
 - Research in acoustic metamaterials, specifically investigating elastic wave propagation in compressed phononic crystals
 - Collaborated with Princeton graduate students, utilizing **Python** coding with **FEniCSx** to gain insight into how elastic waves behave in deforming materials
 - Conclusions led to promising applications in noise reduction and vibrational control
-  ![Metamaterials](/assets/img/metamaterials.jpeg)
+
+![Metamaterials](/assets/img/metamaterials.jpeg)
 
 **Research Assistant at the [Infrared Processing and Analysis Center](https://www.ipac.caltech.edu/) (IPAC) with [Dr. David R. Ciardi](https://web.ipac.caltech.edu/staff/ciardi/) at Caltech. (_August 2019 - August 2020_)**
 - Utilized data from NASA's TESS satellite to categorize over 150 TOI (TESS Objects of Interest) candidate star systems and extrasolar planets with high image processing in near-infrared adaptive optics
