@@ -57,10 +57,10 @@ If you are interested in viewing a more in-depth [CV](https://drive.google.com/f
 - 2024 Department of Physics & Astronomy Summer Research Award
 - 2024 The Debra Costa Graduate Student Scholarship
 - 2024 CSUN Association of Retired Faculty Award (1 of 4 in all graduate programs)
-- 2023 CSUNposium 2nd place winner in the Department of Science & Mathematics
+- 2023 CSUNposium winner in the Department of Science & Mathematics
 - 2023 CSUN Betty and Martin Altshiller Memorial for Outstanding Undergraduates
 - 2023 CSUN Paul and Amy Lee Undergraduate Scholarship for Excellence
-- 2022-2023 CSUN Undergrad Department of Science & Mathematics Dean’s List
+- 2022-2023 CSUN Undergraduate Department of Science & Mathematics Dean’s List
 - 2021 CSUN MSP SAGE Society Scholarship
 - 2019 California Space Grant Consortium
 - 2018 NASA Community College Aerospace Scholar (NCAS)
