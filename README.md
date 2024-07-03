@@ -51,7 +51,7 @@ If you are interested in viewing a more in-depth [CV](https://drive.google.com/f
 - _Some of the labs I have conducted include_:
   - ASTR 154L: Observational Astronomy Lab (_August 2023 - Present_)
   - PHYS 220AL: Mechanics Lab (_January 2024 - May 2024_)
-  - PHYS 100B: General Physics II (_August 2023 - December 2023_)
+  - PHYS 100BL: General Physics II (_August 2023 - December 2023_)
 
 ## Awards/Honors
 - 2024 Department of Physics & Astronomy Summer Research Award
