@@ -24,7 +24,7 @@
 
 **Research Assistant at the [Infrared Processing and Analysis Center](https://www.ipac.caltech.edu/) (IPAC) at Caltech. (_August 2019 - August 2020_)**
 - Utilized data from NASA's TESS satellite to categorize over 150 TOI (TESS Objects of Interest) candidate star systems and extrasolar planets with high image processing in near-infrared adaptive optics
-- Analyzed stellar data (**IDL**), calculated star magnitudes, distances, and luminosities (also data from Palomar and Keck Observatories)
+- Analyzed stellar data **(IDL)**, calculated star magnitudes, distances, and luminosities (also data from Palomar and Keck Observatories)
 - Contributed to better understanding of potential habitable planets and their host stars
 
 **[Palomar Observatory](https://sites.astro.caltech.edu/palomar/homepage.html) Research Assistant. (_June 2019_)**
