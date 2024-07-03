@@ -63,4 +63,8 @@ I am currently a physics grad student at California State University, Northridge
 
 ## In my free time
 - When I am not researching or teaching my labs, I enjoy taking photos with my _Fujifilm X100V_ camera. Here are some recent pictures I have taken when at La Jolla for Cool Stars 22:
-- insert pics here when I have them
+
+![Waves](/assets/img/DSCF1005.JPG)
+![Seals](/assets/img/DSCF1092.JPG)
+![Bird](/assets/img/DSCF1037.JPG)
+![Family](/assets/img/DSCF1102.JPG)
