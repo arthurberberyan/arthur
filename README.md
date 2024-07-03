@@ -19,6 +19,8 @@ I am currently a physics grad student at California State University, Northridge
 - Utilizing **IDL** + **bash-scripting** to derive light curves, calculate frequencies and periods to look for possible mechanisms for wave heating
 - The paper is currently under review!
 
+![The Sun](/assets/img/sun.jpg) ![Transition Region](/assets/img/transitionregion.jpg)
+
 **REU Summer Program with [Dr. Andrej Košmrlj](https://www.princeton.edu/~akosmrlj/) at Princeton University. (_June 2022 - August 2022_)**
 - Research in acoustic metamaterials, specifically investigating elastic wave propagation in compressed phononic crystals
 - Collaborated with Princeton graduate students, utilizing **Python** coding with **FEniCSx** to gain insight into how elastic waves behave in deforming materials
