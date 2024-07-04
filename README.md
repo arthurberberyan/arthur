@@ -72,7 +72,7 @@ When I am not researching, teaching my labs, or studying for exams, I enjoy taki
 ![Family](/assets/img/DSCF1102.JPG)
 
 ## My Favorite Haiku
-
+<br />
 <p align=center>
 <em>This dewdrop world -- <br /><br />
 Is a dewdrop world, <br /><br />
