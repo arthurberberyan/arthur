@@ -70,3 +70,12 @@ When I am not researching, teaching my labs, or studying for exams, I enjoy taki
 ![Seals](/assets/img/DSCF1092.JPG)
 ![Bird](/assets/img/DSCF1037.JPG)
 ![Family](/assets/img/DSCF1102.JPG)
+
+## Poem of the Year
+_"This dewdrop world --_
+
+_Is a dewdrop world,_
+
+_And yet, and yet . . ."_
+
+_-Kobayashi Issa_
