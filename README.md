@@ -46,7 +46,7 @@ If you are interested in viewing a more in-depth [CV](https://drive.google.com/f
 - I have significantly contributed to students' academic success in varying subjects, including electromagnetism, circuits, optics, astronomy, mechanics, statistical analysis, and engineering.
 - My goal is to simply complex scientific concepts and provide a healthy, welcoming environment to students of all backgrounds
 - My passion for teaching comes from my love for physics and astronomy to eventually one-day professorship + academic researcher
-- _Some of the labs I have conducted include_:
+- _Some of the labs I have conducted_:
   - ASTR 154L: Observational Astronomy Lab (_August 2023 - Present_)
   - PHYS 220AL: Mechanics Lab (_January 2024 - May 2024_)
   - PHYS 100BL: General Physics II (_August 2023 - December 2023_)
