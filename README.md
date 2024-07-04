@@ -44,7 +44,7 @@ If you are interested in viewing a more in-depth [CV](https://drive.google.com/f
 <div align="center">
 <img src="https://www.ipac.caltech.edu/system/activities/logos/31/small/nexsci_logo.png?1565396370" width="450">
 </div>
-<br/>
+<be />
 
 **[Palomar Observatory](https://sites.astro.caltech.edu/palomar/homepage.html) Research Assistant. (_June 2019_)**
 - Collaborated with Caltech astronomers with the 200-inch [Hale telescope](https://sites.astro.caltech.edu/palomar/about/telescopes/hale.html) to capture imaging of Kepler star systems and exoplanets
@@ -53,7 +53,7 @@ If you are interested in viewing a more in-depth [CV](https://drive.google.com/f
 <div align="center">
 <img src="https://store.palomar.caltech.edu/cdn/shop/collections/CircularDecal_1200x1200.jpg?v=1615743205" width="250">
 </div>
-
+<br />
 
 ## Educational Experience 
 **Teaching Associate for the [Department of Physics & Astronomy](https://w2.csun.edu/science-mathematics/physics-astronomy) at California State University, Northridge. (_August 2023 - Present_)**
