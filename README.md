@@ -72,10 +72,15 @@ When I am not researching, teaching my labs, or studying for exams, I enjoy taki
 ![Family](/assets/img/DSCF1102.JPG)
 
 ## My Favorite Haiku
-_"This dewdrop world --_
+<p allign="center">
+<img src="/assets/img/ocean.JPG"/>
+</p>
+_"This dewdrop world --_ 
 
 _Is a dewdrop world,_
 
 _And yet, and yet . . ."_
 
 _-Kobayashi Issa_
+
+
