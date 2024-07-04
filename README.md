@@ -37,7 +37,7 @@ If you are interested in viewing a more in-depth [CV](https://drive.google.com/f
 - Analyzed stellar data **(IDL)**, calculated star magnitudes, distances, and luminosities (also data from Palomar and Keck Observatories)
 - Contributed to better understanding of potential habitable planets and their host stars
 
-<img src="/assets/img/nexsci_logo.png" width="500">
+<img src="https://www.ipac.caltech.edu/system/activities/logos/31/small/nexsci_logo.png?1565396370" width="500">
 
 **[Palomar Observatory](https://sites.astro.caltech.edu/palomar/homepage.html) Research Assistant. (_June 2019_)**
 - Collaborated with Caltech astronomers with the 200-inch [Hale telescope](https://sites.astro.caltech.edu/palomar/about/telescopes/hale.html) to capture imaging of Kepler star systems and exoplanets
