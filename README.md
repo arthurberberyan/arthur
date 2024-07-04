@@ -63,7 +63,7 @@ If you are interested in viewing a more in-depth [CV](https://drive.google.com/f
 - 2019 California Space Grant Consortium
 - 2018 NASA Community College Aerospace Scholar (NCAS)
 
-## In my free time
+## In My Free Time
 When I am not researching, teaching my labs, or studying for exams, I enjoy taking photos with my _Fujifilm X100V_ camera. Here are some recent pictures I have taken at La Jolla:
 
 ![Waves](/assets/img/DSCF1005.JPG)
