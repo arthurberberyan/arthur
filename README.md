@@ -73,7 +73,7 @@ When I am not researching, teaching my labs, or studying for exams, I enjoy taki
 
 ## My Favorite Haiku
 <p allign="center">
-<img src="/assets/img/ocean.JPG"/>
+<img src="/assets/img/ocean.JPG" width="100" border="10"/>
 </p>
 
 _"This dewdrop world --_ 
