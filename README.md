@@ -17,7 +17,7 @@ If you are interested in viewing a more in-depth [CV](https://drive.google.com/f
 **Solar Physics Researcher at California State University, Northridge with [Dr. Damian J. Christian](https://academics.csun.edu/faculty/damian.christian). (_August 2021 - Present_)**
 - Investigating the coronal heating issue by studying mode coupling in magnetic bright points within the different layers of the Sun
 - Utilizing **IDL** + **bash-scripting** to derive light curves, calculate frequencies and periods to look for possible mechanisms for wave heating
-- The paper is currently under review!
+- The paper is currently in review!
 
 <div align="center">
 <img src="https://arthurberberyan.github.io/home/assets/img/transitionregion.jpg" width="450">
