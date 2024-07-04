@@ -16,7 +16,7 @@ If you are interested in viewing a more in-depth [CV](https://drive.google.com/f
 - _Elastic Wave Propagation in Compressed Phononic Crystals_, presented at the [Center for Complex Materials](https://pccm.princeton.edu/) at Princeton University. (_August 2022_) [poster](https://drive.google.com/file/d/1zIn6Jd-08JxAgyeDPFpY2Xki72a9HxLn/view?usp=sharing)
 
 ## Research Experience 
-**Solar physics Graduate Student Researcher at California State University, Northridge with [Dr. Damian J. Christian](https://academics.csun.edu/faculty/damian.christian). (_August 2021 - Present_)**
+**Solar Physics Researcher at California State University, Northridge with [Dr. Damian J. Christian](https://academics.csun.edu/faculty/damian.christian). (_August 2021 - Present_)**
 - Investigating the coronal heating issue by studying mode coupling in magnetic bright points within the different layers of the Sun
 - Utilizing **IDL** + **bash-scripting** to derive light curves, calculate frequencies and periods to look for possible mechanisms for wave heating
 - The paper is currently under review!
