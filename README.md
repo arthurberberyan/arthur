@@ -23,6 +23,7 @@ If you are interested in viewing a more in-depth [CV](https://drive.google.com/f
 
 ![Transition Region](/assets/img/transitionregion.jpg)
 
+
 **REU Summer Program with [Dr. Andrej Košmrlj](https://www.princeton.edu/~akosmrlj/) at Princeton University. (_June 2022 - August 2022_)**
 - Research in acoustic metamaterials, specifically investigating elastic wave propagation in compressed phononic crystals
 - Collaborated with Princeton graduate students, utilizing **Python** coding with **FEniCSx** to solve PDEs and gain insight into how elastic waves behave in deforming materials
@@ -30,12 +31,13 @@ If you are interested in viewing a more in-depth [CV](https://drive.google.com/f
 
 ![Metamaterials](/assets/img/metamaterials.jpeg)
 
+
 **Research Assistant at the [Infrared Processing and Analysis Center](https://www.ipac.caltech.edu/) (IPAC) with [Dr. David R. Ciardi](https://web.ipac.caltech.edu/staff/ciardi/) at Caltech. (_August 2019 - August 2020_)**
 - Utilized data from NASA’s TESS Satellite, Palomar, Keck Observatories, and the NASA Exoplanet Science Institute (NExScI) archive, to process images and categorize 150+ TESS Objects of Interest (TOI): candidate stars and exoplanets with high image processing in near-infrared adaptive optics
 - Analyzed stellar data **(IDL)**, calculated star magnitudes, distances, and luminosities (also data from Palomar and Keck Observatories)
 - Contributed to better understanding of potential habitable planets and their host stars
 
-![NExScI](/assets/img/nexsci_logo.png) 
+<img src="/assets/img/nexsci_logo.png" width="500">
 
 **[Palomar Observatory](https://sites.astro.caltech.edu/palomar/homepage.html) Research Assistant. (_June 2019_)**
 - Collaborated with Caltech astronomers with the 200-inch [Hale telescope](https://sites.astro.caltech.edu/palomar/about/telescopes/hale.html) to capture imaging of Kepler star systems and exoplanets
