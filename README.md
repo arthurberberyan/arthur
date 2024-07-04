@@ -21,15 +21,14 @@ If you are interested in viewing a more in-depth [CV](https://drive.google.com/f
 - Utilizing **IDL** + **bash-scripting** to derive light curves, calculate frequencies and periods to look for possible mechanisms for wave heating
 - The paper is currently under review!
 
-![Transition Region](/assets/img/transitionregion.jpg)
-
+<img src="https://arthurberberyan.github.io/home/assets/img/transitionregion.jpg" width="450">
 
 **REU Summer Program with [Dr. Andrej Košmrlj](https://www.princeton.edu/~akosmrlj/) at Princeton University. (_June 2022 - August 2022_)**
 - Research in acoustic metamaterials, specifically investigating elastic wave propagation in compressed phononic crystals
 - Collaborated with Princeton graduate students, utilizing **Python** coding with **FEniCSx** to solve PDEs and gain insight into how elastic waves behave in deforming materials
 - Conclusions led to promising applications in noise reduction and vibrational control
 
-![Metamaterials](/assets/img/metamaterials.jpeg)
+<img src="https://arthurberberyan.github.io/home/assets/img/metamaterials.jpeg" width="600">
 
 
 **Research Assistant at the [Infrared Processing and Analysis Center](https://www.ipac.caltech.edu/) (IPAC) with [Dr. David R. Ciardi](https://web.ipac.caltech.edu/staff/ciardi/) at Caltech. (_August 2019 - August 2020_)**
