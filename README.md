@@ -75,7 +75,7 @@ When I am not researching, teaching my labs, or studying for exams, I enjoy taki
 
 <p align=center>
 <em>This dewdrop world -- <br /><br />
-<em>Is a dewdrop world, <br /><br />
-<em>And yet, and yet . . .<br /><br />
+Is a dewdrop world, <br /><br />
+And yet, and yet . . .</em><br /><br />
 -Kobayashi Issa 
 </p>
