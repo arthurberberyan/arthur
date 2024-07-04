@@ -28,7 +28,7 @@ If you are interested in viewing a more in-depth [CV](https://drive.google.com/f
 - Collaborated with Princeton graduate students, utilizing **Python** coding with **FEniCSx** to solve PDEs and gain insight into how elastic waves behave in deforming materials
 - Conclusions led to promising applications in noise reduction and vibrational control
 
-<img src="https://arthurberberyan.github.io/home/assets/img/metamaterials.jpeg" width="700">
+<img src="https://arthurberberyan.github.io/home/assets/img/metamaterials.jpeg" width="800">
 
 **Research Assistant at the [Infrared Processing and Analysis Center](https://www.ipac.caltech.edu/) (IPAC) with [Dr. David R. Ciardi](https://web.ipac.caltech.edu/staff/ciardi/) at Caltech. (_August 2019 - August 2020_)**
 - Utilized data from NASA’s TESS Satellite, Palomar, Keck Observatories, and the NASA Exoplanet Science Institute (NExScI) archive, to process images and categorize 150+ TESS Objects of Interest (TOI): candidate stars and exoplanets with high image processing in near-infrared adaptive optics
@@ -40,6 +40,8 @@ If you are interested in viewing a more in-depth [CV](https://drive.google.com/f
 **[Palomar Observatory](https://sites.astro.caltech.edu/palomar/homepage.html) Research Assistant. (_June 2019_)**
 - Collaborated with Caltech astronomers with the 200-inch [Hale telescope](https://sites.astro.caltech.edu/palomar/about/telescopes/hale.html) to capture imaging of Kepler star systems and exoplanets
 - Captured imaging of individual stars and data analysis from high-quality image processing
+
+<img src="https://store.palomar.caltech.edu/cdn/shop/collections/CircularDecal_1200x1200.jpg?v=1615743205" width="250">
 
 ## Educational Experience 
 **Teaching Associate for the [Department of Physics & Astronomy](https://w2.csun.edu/science-mathematics/physics-astronomy) at California State University, Northridge. (_August 2023 - Present_)**
