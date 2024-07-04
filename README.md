@@ -74,9 +74,9 @@ When I am not researching, teaching my labs, or studying for exams, I enjoy taki
 ## My Favorite Haiku
 
 <p align=center>
-<em>This dewdrop world --</br>
-Is a dewdrop world,</br>
-And yet, and yet . . .</br></br/>
--Kobayashi Issa</br>
+This dewdrop world --
+Is a dewdrop world,
+And yet, and yet . . .
+-Kobayashi Issa
 </p>
 
