@@ -41,7 +41,9 @@ If you are interested in viewing a more in-depth [CV](https://drive.google.com/f
 - Collaborated with Caltech astronomers with the 200-inch [Hale telescope](https://sites.astro.caltech.edu/palomar/about/telescopes/hale.html) to capture imaging of Kepler star systems and exoplanets
 - Captured imaging of individual stars and data analysis from high-quality image processing
 
+<div align="center">
 <img src="https://store.palomar.caltech.edu/cdn/shop/collections/CircularDecal_1200x1200.jpg?v=1615743205" width="250">
+</div>
 
 ## Educational Experience 
 **Teaching Associate for the [Department of Physics & Astronomy](https://w2.csun.edu/science-mathematics/physics-astronomy) at California State University, Northridge. (_August 2023 - Present_)**
