@@ -24,7 +24,7 @@ If you are interested in viewing a more in-depth [CV](https://drive.google.com/f
 <div align="center">
 <img src="https://arthurberberyan.github.io/home/assets/img/transitionregion.jpg" width="450">
 </div>
-
+<br />
 
 **REU Summer Program with [Dr. Andrej Košmrlj](https://www.princeton.edu/~akosmrlj/) at Princeton University. (_June 2022 - August 2022_)**
 - Research in acoustic metamaterials, specifically investigating elastic wave propagation in compressed phononic crystals
@@ -34,7 +34,7 @@ If you are interested in viewing a more in-depth [CV](https://drive.google.com/f
 <div align="center">
 <img src="https://arthurberberyan.github.io/home/assets/img/metamaterials.jpeg" width="800">
 </div>
-
+<br />
 
 **Research Assistant at the [Infrared Processing and Analysis Center](https://www.ipac.caltech.edu/) (IPAC) with [Dr. David R. Ciardi](https://web.ipac.caltech.edu/staff/ciardi/) at Caltech. (_August 2019 - August 2020_)**
 - Utilized data from NASA’s TESS Satellite, Palomar, Keck Observatories, and the NASA Exoplanet Science Institute (NExScI) archive, to process images and categorize 150+ TESS Objects of Interest (TOI): candidate stars and exoplanets with high image processing in near-infrared adaptive optics
@@ -44,7 +44,7 @@ If you are interested in viewing a more in-depth [CV](https://drive.google.com/f
 <div align="center">
 <img src="https://www.ipac.caltech.edu/system/activities/logos/31/small/nexsci_logo.png?1565396370" width="450">
 </div>
-
+<br/>
 
 **[Palomar Observatory](https://sites.astro.caltech.edu/palomar/homepage.html) Research Assistant. (_June 2019_)**
 - Collaborated with Caltech astronomers with the 200-inch [Hale telescope](https://sites.astro.caltech.edu/palomar/about/telescopes/hale.html) to capture imaging of Kepler star systems and exoplanets
