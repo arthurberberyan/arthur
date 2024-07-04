@@ -86,7 +86,3 @@ And yet, and yet . . ." <br //>
 </tbody>
 </table>
 </div>
-
-<p align="center">
-  <img width="460" height="300" src="/assets/img/ocean.JPG">
-</p>
