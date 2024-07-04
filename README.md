@@ -75,6 +75,7 @@ When I am not researching, teaching my labs, or studying for exams, I enjoy taki
 <p allign="center">
 <img src="/assets/img/ocean.JPG"/>
 </p>
+
 _"This dewdrop world --_ 
 
 _Is a dewdrop world,_
