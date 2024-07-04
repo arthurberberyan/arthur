@@ -71,7 +71,7 @@ When I am not researching, teaching my labs, or studying for exams, I enjoy taki
 ![Bird](/assets/img/DSCF1037.JPG)
 ![Family](/assets/img/DSCF1102.JPG)
 
-## My favorite Haiku
+## My Favorite Haiku
 _"This dewdrop world --_
 
 _Is a dewdrop world,_
