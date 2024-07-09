@@ -1,4 +1,4 @@
-I am a final-year physics graduate student at California State University, Northridge. If you would like to contact me, please email me at [arthurberberyan [at] gmail [dot] com](mailto:arthurberberyan@gmail.com?subject=[Github]%20Source%20Han%20Sans).
+I am a final-year physics graduate student at California State University, Northridge. If you would like to contact me, please email me at [arthurberberyan [at] gmail [dot] com](mailto:arthurberberyan@gmail.com).
 
 If you are interested in viewing a more _in-depth_ [CV](https://drive.google.com/file/d/1btNbZQMroAEVs4ef7UU29qBfHbK3ofdi/view?usp=sharing).
 
