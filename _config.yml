@@ -1,11 +1,5 @@
 title: Arthur Berberyan
-#logo: /assets/img/IMG_2480.JPG
-<p>
-    <img src="/assets/IMG_2480.JPG" alt>
-</p>
-<p>
-    <em>I laugh when I hear that the fish in the water is thirsty -Kabir</em>
-</p>
+logo: /assets/img/IMG_2480.JPG
 #description: I am a final-year physics graduate student at California State University, Northridge. If you would like to contact me, please message me at arthurberberyan [at] gmail [dot] com.
 show_downloads: false
 github:
