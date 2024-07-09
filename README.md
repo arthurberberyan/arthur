@@ -3,8 +3,8 @@ I am a final-year physics graduate student at California State University, North
 If you are interested in viewing a more _in-depth_ [CV](https://drive.google.com/file/d/1btNbZQMroAEVs4ef7UU29qBfHbK3ofdi/view?usp=sharing).
 
 ## Education
-- M.Sc., Physics | California State University, Northridge (_May 2025_)
-- B.Sc., Astrophysics | California State University, Northridge (_May 2023_)
+- M.Sc., Physics | CSU Northridge (_May 2025_)
+- B.Sc., Astrophysics | CSU Northridge (_May 2023_)
 
 ## Publications
 - **A. Berberyan**, D.B. Jess, D.J. Christian et al., "_A Search for Mode Coupling in Magnetic Bright Points._", Astronomy & Astrophysics (A&A), _in review._ (_June 2024_)
