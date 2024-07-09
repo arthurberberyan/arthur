@@ -1,3 +1,5 @@
+I am a final-year physics graduate student at California State University, Northridge. If you would like to contact me, please message me at arthurberberyan [at] gmail [dot] com.
+
 If you are interested in viewing a more in-depth [CV](https://drive.google.com/file/d/1btNbZQMroAEVs4ef7UU29qBfHbK3ofdi/view?usp=sharing).
 
 ## Education
