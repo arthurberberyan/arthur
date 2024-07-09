@@ -1,5 +1,5 @@
 If you are interested in viewing a more in-depth [CV](https://drive.google.com/file/d/1btNbZQMroAEVs4ef7UU29qBfHbK3ofdi/view?usp=sharing).
-![CV](/cv/berberyan_cv_2pg.pdf)
+
 ## Education
 - M.Sc., Physics | California State University, Northridge (_May 2025_)
 - B.Sc., Astrophysics | California State University, Northridge (_May 2023_)
