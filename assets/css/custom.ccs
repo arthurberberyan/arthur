@@ -2,12 +2,12 @@
 
 /* Change the background color of the site */
 body {
-  background-color: #f0f0f0;
+  background-color: #e1e7ed;
 }
 
 /* Change the font of the site title */
 .site-title {
-  font-family: 'Arial', sans-serif;
+  font-family: 'Helvetica', sans-serif;
   color: #333333;
 }
 
