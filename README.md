@@ -12,7 +12,7 @@ If you are interested in viewing a more _in-depth_ [CV](https://drive.google.com
 
 ## Recent Conferences / Presentations 
 - _The Search for Mode Coupling in the Lower Solar Atmosphere_, presented for [Cool Stars 22](https://coolstars22.github.io/) at the University of California, San Diego. (_June 2024_) [poster](https://drive.google.com/file/d/17lu4VqiTQlsk6I2dMnnmLVEOOdtdBhie/view?usp=sharing)
-- _The Recent Solar Eclipse and Understanding Mode Coupling in Our Sun_, presented to the [Association of Retired Faculty (ARF)](https://www.csun.edu/arf/purpose.html) at California State University, Northridge. (_May 2024_) [slides](https://drive.google.com/file/d/1_9qlytr9qXnM60zY543KYcfLbtD8hXA_/view?usp=sharing)
+- _The Recent Solar Eclipse and Understanding Mode Coupling in Our Sun_, presented to the [Association of Retired Faculty (ARF)](https://www.csun.edu/arf/purpose.html) at California State University, Northridge. (_May 2024_) [slides](https://drive.google.com/file/d/1Wufd78S5YqP8UX57o2ZDCUwHAG2Vusat/view?usp=sharing)
 - _Elastic Wave Propagation in Compressed Phononic Crystals_, presented at the [Center for Complex Materials](https://pccm.princeton.edu/) at Princeton University. (_August 2022_) [poster](https://drive.google.com/file/d/1zIn6Jd-08JxAgyeDPFpY2Xki72a9HxLn/view?usp=sharing)
 
 ## Research Experience 
