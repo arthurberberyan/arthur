@@ -4,4 +4,5 @@ description: <em> I laugh when I hear that the fish in the water is thirsty. </e
 show_downloads: false
 github:
   is_project_page: false
+custom_css: /assets/css/custom.css
 theme: jekyll-theme-minimal
