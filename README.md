@@ -32,7 +32,7 @@ If you are interested in viewing a more _in-depth_ [CV](https://drive.google.com
 - Conclusions led to promising applications in noise reduction and vibrational control
 
 <div align="center">
-<img src="https://arthurberberyan.github.io/home/assets/img/metamaterials.jpeg" width="800">
+<img src="https://arthurberberyan.github.io/home/assets/img/metamaterials.jpeg" width="900">
 </div>
 <br />
 
